@@ -1,0 +1,30 @@
+@)Project Introduction
+
+1)Project Name : Live Chat
+2)Front-end Technology : React
+3)Back-end Technology : firebase core 
+4)Database : Firebase
+
+@) Project functionality
+ 
+#) animations
+#) validationas
+#) reat charts
+#) material-ui
+#) responsive design
+#) toster message
+#) emoji for message
+
+@) Project configuration
+
+1) npm  i
+2) npm start
+
+note => we have alreaady two user in our database if you login directly without signup then use  this credentials
+ 
+1) email    :- rohitsharma@gmail.com
+   password :- rohit@123
+
+2) email    :- viratkohli@gmail.com
+   password :- virat@123
+
